@@ -1,7 +1,6 @@
 """
 ========================================
-Codveda Python Internship - Level 1
-Task 2: Number Guessing Game
+Number Guessing Game
 Author  : Anselm Munango
 Purpose : Generate a random integer between 1 and 100 and challenge the
           user to identify it within a fixed number of attempts, providing
